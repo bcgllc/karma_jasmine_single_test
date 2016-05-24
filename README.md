@@ -1,6 +1,6 @@
 # Running Only One Jasmine Test in Karma
 
-Jasmine is the preferred BDD JavaScript testing framework for our team and Karma is the test runner that we use. It is great for running all of our tests at once and neatly reporting the results. One of my developers asked me if we could easily isolate a partinular suite of unit tests and only run them. He told me it would be great if we could override our gulp task and pass in a command line argument in order to specify a single spec file to test.
+Jasmine is the preferred BDD JavaScript testing framework for our team and Karma is the test runner that we use. It is great for running all of our tests at once and neatly reporting the results. One of my developers asked me if we could easily isolate a particular suite of unit tests and only run them. He told me it would be great if we could override our gulp task and pass in a command line argument in order to specify a single spec file to test.
 
 In a few minutes, we had modified our gulp task and we are now able to easily isolate a specific test. This repo contains example source code that demonstrates how we accomplished this.
 
