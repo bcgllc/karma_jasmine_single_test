@@ -6,7 +6,7 @@ In a few minutes, we had modified our gulp task and we are now able to easily is
 
 There are certainly Node packages that can be used other than the ones I chose. Naming conventions and folder structures are based on our team's guidelines. There is some deviation, mostly in order to better focus on and demonstrate the solution.
 
-The solution is quite simple and the only thing different than typical Jasmine tests run with Karma is found in the `karma.conf.js`.
+The solution is quite simple and the only thing different than typical Jasmine tests ran with Karma is found in the `karma.conf.js`.
 
 The `karma.conf.js` is as follows:
 
