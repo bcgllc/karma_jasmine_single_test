@@ -36,3 +36,4 @@ function getSpecs() {
 ```
 
 The gulp task can be run from the command line using `gulp test` or `gulp test --file "specs/first.spec.js"`.
+
